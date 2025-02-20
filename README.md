@@ -18,8 +18,8 @@ A simple JavaScript project that changes the background color randomly each time
 
 🛠️ Technologies Used
 
-   HTML – Structure of the webpage
-   CSS – Styling for the UI
+   HTML – Structure of the webpage , 
+   CSS – Styling for the UI , 
    JavaScript – Generates random RGB colors and applies them to the background
 
 📷 Demo Preview
