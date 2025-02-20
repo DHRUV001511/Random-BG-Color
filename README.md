@@ -3,6 +3,7 @@
 Random BG Color 🎨
 
 A simple JavaScript project that changes the background color randomly each time a button is clicked. This project demonstrates how to use JavaScript’s Math.random() function to generate dynamic RGB colors and apply them to the webpage background.
+
 📌 Features
 
     > Random background color generation
