@@ -23,6 +23,8 @@ A simple JavaScript project that changes the background color randomly each time
 
 📷 Demo Preview
 
+![Image](https://github.com/user-attachments/assets/e6d2d6ad-2751-4a9e-a358-f1765adc83d9)
+![Image](https://github.com/user-attachments/assets/b4e226ec-0eab-4f33-a75e-2f750c73f6e6)
 
 
 📂 Project Setup
